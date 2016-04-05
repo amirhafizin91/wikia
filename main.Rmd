@@ -44,7 +44,7 @@
 * [Basic Human Exome Analysis](http://dev.novocraft.com/trac/trac_backup/wiki/humanExome)
 
 * [Pindel_SV_annotation](http://dev.novocraft.com/trac/trac_backup/wiki/pindelAnnotation)
---
+
 * [Breakdancer_SV_Annotation](http://dev.novocraft.com/trac/trac_backup/wiki/breakdancerAnnotation)
 
 * [2014_Multiple snpPlot Distribution](http://dev.novocraft.com/trac/trac_backup/wiki/snpPlotDistribution)
@@ -104,7 +104,7 @@
 * [SGE in Amazon EC2](http://dev.novocraft.com/trac/trac_backup/wiki/EC2_SGE)
 
 * [SGE queue list](http://dev.novocraft.com/trac/trac_backup/wiki/sge_queue)
--- 
+
 # Notice Board
 
 * [Troubleshooting FAQ](http://dev.novocraft.com/trac/trac_backup/wiki/troubleshootingfaq)
