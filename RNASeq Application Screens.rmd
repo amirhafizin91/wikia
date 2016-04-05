@@ -12,7 +12,7 @@ Click to the menu -> **Change : Hue, Saturation and Lightness**
 Play around with the Hue/Saturation/Lightness and view the theme in panel **Preview Image(not exact or slow)**
 Press "**Preview Colors**". You will see a palette of colors to compare with the original from Ext.
 After that, enter your prefer **Theme Name** and click "**Generate Theme**".
-![123](https://github.com/amirhafizin91/wikia/blob/Product-Development/2.png)
+![123](https://github.com/amirhafizin91/wikia/blob/Product-Development/2.png?raw=true)
 Then, click "**Examples Components View**" tab to view the new custom theme components.
 Click "**xtheme-enter-theme-name-here...**" to download the theme in zip format.
 ![](3.png)
