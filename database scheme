@@ -1,0 +1,11 @@
+# Database Wiki 
+Schema for databases(genome):
+
+* [refFlat](http://dev.novocraft.com/trac/trac_backup/wiki/db_mm9_refFlat)
+
+* [refGene](http://dev.novocraft.com/trac/trac_backup/wiki/db_mm9_refGene)
+
+* [refLink](http://dev.novocraft.com/trac/trac_backup/wiki/db_mm9_refLink)
+
+* [chromInfo](http://dev.novocraft.com/trac/trac_backup/wiki/db_mm9_chromInfo)
+
