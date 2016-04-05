@@ -13,7 +13,7 @@
 
 # Product Development
 
-* [Conceptual Design of BioApp](dev.novocraft.com/trac/trac_backup/wiki/Concepts_1)
+* [Conceptual Design of BioApp](k.rmd)
 
 * [Web Application Results Views](http://dev.novocraft.com/trac/trac_backup/wiki/appscreen)
 
