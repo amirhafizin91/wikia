@@ -1,0 +1,124 @@
+# Novocraft Wiki
+* Informative
+
+* up-to-date
+
+* user-friendly
+
+# Office Procedure and Forms
+
+* [Forms](http://dev.novocraft.com/trac/trac_backup/wiki/Forms)
+
+* [Leaves Calender](https://calendar.google.com/calendar/embed?src=novocraft.com_hnaq0ulvmujbegc2jvteim9o4g@group.calendar.google.com&ctz=Asia/Kuala_Lumpur)
+
+# Product Development
+
+* [Conceptual Design of BioApp](dev.novocraft.com/trac/trac_backup/wiki/Concepts_1)
+
+* [Web Application Results Views](http://dev.novocraft.com/trac/trac_backup/wiki/appscreen)
+
+* [Database Schema](http://dev.novocraft.com/trac/trac_backup/wiki/ddSchema)
+
+* [NGS Database Schema](http://dev.novocraft.com/trac/trac_backup/wiki/ngs_schema)
+
+* [Python2.6 Script to add Copyright text](http://dev.novocraft.com/trac/trac_backup/wiki/CopyrightTextScript)
+
+# Sofware Documentation
+
+*[Online documentation](http://dev.novocraft.com/trac/trac_backup/wiki/appDocmain)
+
+# Framework Development
+
+* [Manually Add a Module](http://dev.novocraft.com/trac/trac_backup/wiki/addModuleManual)
+
+* [Framework Installaton](http://dev.novocraft.com/trac/trac_backup/wiki/frameworkInstallationMainPage)
+
+* [Framework Documentation](http://dev.novocraft.com/trac/trac_backup/wiki/appDocmain)
+
+* [Demo Site Details](http://dev.novocraft.com/trac/trac_backup/wiki/demoSite)
+
+# Pipeline Documentation
+
+* [miRNA Pipeline](http://dev.novocraft.com/trac/trac_backup/wiki/miRNA)
+
+* [Basic Human Exome Analysis](http://dev.novocraft.com/trac/trac_backup/wiki/humanExome)
+
+* [Pindel_SV_annotation](http://dev.novocraft.com/trac/trac_backup/wiki/pindelAnnotation)
+--
+* [Breakdancer_SV_Annotation](http://dev.novocraft.com/trac/trac_backup/wiki/breakdancerAnnotation)
+
+* [2014_Multiple snpPlot Distribution](http://dev.novocraft.com/trac/trac_backup/wiki/snpPlotDistribution)
+
+# Bioinformatics
+
+* [Useful links for bioinformatics data](http://dev.novocraft.com/trac/trac_backup/wiki/biolinks)
+
+* [Bioinformatics Learning resources](http://dev.novocraft.com/trac/trac_backup/wiki/edu1)
+
+* [In-House Bioinformatics Software directory](http://dev.novocraft.com/trac/trac_backup/wiki/softwareDirectory)
+
+* [DNA Sequencing Experiments](http://dev.novocraft.com/trac/trac_backup/wiki/Experiments)
+
+* [DAS Request specification](http://dev.novocraft.com/trac/trac_backup/wiki/DAS)
+
+# Next-Gen sequencing Bioinformatics workflows (UNIX)
+
+* [Protocols/HowTos](http://dev.novocraft.com/trac/trac_backup/wiki/nextgenworkflow)
+
+* [CHIP-Seq,RNASeq,Bisulfite,etc](http://dev.novocraft.com/trac/trac_backup/wiki/nextgenapps)protocols
+
+# DNA Sequencing
+
+* [Illumina](http://dev.novocraft.com/trac/trac_backup/wiki/Illumina)
+
+* [SOLiD](http://dev.novocraft.com/trac/trac_backup/wiki/ABI)
+
+# Literature
+
+* [Review Papers (Algorithms and Biology)](dev.novocraft.com/trac/trac_backup/wiki/reviewPapers)
+
+# Office LAN Setup
+
+* [Office Lan and Internet Connection](http://dev.novocraft.com/trac/trac_backup/wiki/OfficeLan)
+
+* [Staff Personal Board](http://dev.novocraft.com/trac/trac_backup/wiki/staffpersonalboard)
+
+* [Adobe Flash for Linux x64](http://dev.novocraft.com/trac/trac_backup/wiki/adobeflash)
+
+# Weekly Progress Reviews
+
+* [Weekly Progress Reviews](http://dev.novocraft.com/trac/trac_backup/wiki/progress)
+
+# Software Development
+
+* [Main Page](http://dev.novocraft.com/trac/trac_backup/wiki/maindevpage)
+
+* [Novoalign](http://dev.novocraft.com/trac/trac_backup/wiki/Novoalign)
+
+# Cloud Computing (using Ubuntu OEC)
+
+* [Getting Started](https://github.com/eucalyptus/eucalyptus/wiki)
+
+* [Sun Grid Engine](http://dev.novocraft.com/trac/trac_backup/wiki/sge)
+
+* [SGE in Amazon EC2](http://dev.novocraft.com/trac/trac_backup/wiki/EC2_SGE)
+
+* [SGE queue list](http://dev.novocraft.com/trac/trac_backup/wiki/sge_queue)
+-- 
+# Notice Board
+
+* [Troubleshooting FAQ](http://dev.novocraft.com/trac/trac_backup/wiki/troubleshootingfaq)
+
+# Business/Marketing Notes
+
+* [Biomalaysia](http://dev.novocraft.com/trac/trac_backup/wiki/troubleshootingfaq)
+
+# Wiki Help
+
+* [More help on using Trac](http://dev.novocraft.com/trac/trac_backup/wiki/TracHelpGuide)
+
+
+
+
+
+
