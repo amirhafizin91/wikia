@@ -1,3 +1,10 @@
+---
+title :"Novocraft wikia"
+date:"4 April 2016"
+output: html_document:
+toc:yes
+---
+
 # Novocraft Wiki
 * Informative
 
